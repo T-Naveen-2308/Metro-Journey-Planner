@@ -26,7 +26,7 @@ Metro Journey Planner is a web application that helps users plan their metro jou
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/metro-journey-planner.git
+   git clone https://github.com/T-Naveen-2308/Metro-Journey-Planner.git
    cd metro-journey-planner
    ```
 2. **Backend Setup:**
