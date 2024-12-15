@@ -31,32 +31,33 @@ Metro Journey Planner is a web application that helps users plan their metro jou
    ```
 2. **Backend Setup:**
 
-  ```bash
-  # Install dependencies
-  pip install -r requirements.txt
-  ```
+   ```bash
+   # Install dependencies
+   pip install -r requirements.txt
+   ```
 3. **Frontend Setup:**
 
-  ```bash
-  cd frontend
-  # Install dependencies
-  npm install
-  ```
-##Running the Application
+   ```bash
+   cd frontend
+   # Install dependencies
+   npm install
+   ```
+## Running the Application
+
 1. **Run the Flask backend:**
 
-  ```bash
-  # Make sure you are in the root directory of the project
-  python app.py
-  ```
+   ```bash
+   # Make sure you are in the root directory of the project
+   python app.py
+   ```
 
 2. **Run the Vite frontend:**
 
-  ```bash
-  # Make sure you are in the 'frontend' directory
-  npm run dev
-  ```
+   ```bash
+   # Make sure you are in the 'frontend' directory
+   npm run dev
+   ```
 
 3. **Open the Application:**
 
-  Open your web browser and go to http://localhost:3000 to see the Metro Journey Planner application in action.
+   Open your web browser and go to http://localhost:3000 to see the Metro Journey Planner application in action.
